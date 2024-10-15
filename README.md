@@ -65,6 +65,11 @@ Esto generará un archivo `server_monitor.exe` en el directorio `dist/`. Puedes 
 
 ## Ejecución del Programa
 
+## Video de Ejemplo
+
+Puedes ver un ejemplo del monitoreo en funcionamiento en el siguiente video de YouTube: [Video de Monitoreo Básico de Servidor](https://youtu.be/Ye7qnss8rHo)
+
+
 ### Pasos para Ejecutar el Monitoreo
 
 1. Ejecuta el programa con el siguiente comando si tienes el entorno activado:
