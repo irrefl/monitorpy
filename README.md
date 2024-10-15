@@ -4,12 +4,12 @@ Este proyecto tiene como objetivo monitorear un servidor en intervalos de tiempo
 
 ## Características Completas
 
-- [x] **Monitoreo de Estado del Servidor**: Verifica si un servidor está en línea enviando pings periódicos a una dirección IP o un dominio.
-- [x] **Medición de la Latencia**: Registra el tiempo de respuesta en milisegundos (ms) desde el envío del ping hasta recibir la respuesta.
-- [x] **Intervalo de Monitoreo Configurable**: Permite al usuario definir el intervalo en segundos entre cada monitoreo.
-- [x] **Registro en Archivo de Log**: Guarda en un archivo `server_log.txt` cada evento de monitoreo con la fecha, hora, estado del servidor (online/offline) y el tiempo de respuesta.
-- [x] **Envío de Alertas por Correo Electrónico**: Envía un correo cuando el servidor está caído o cuando se recupera.
-- [x] **Creación de un Ejecutable Profesional**: Genera un archivo ejecutable (`.exe`) usando PyInstaller.
+- [✅] **Monitoreo de Estado del Servidor**: Verifica si un servidor está en línea enviando pings periódicos a una dirección IP o un dominio.
+- [✅] **Medición de la Latencia**: Registra el tiempo de respuesta en milisegundos (ms) desde el envío del ping hasta recibir la respuesta.
+- [✅] **Intervalo de Monitoreo Configurable**: Permite al usuario definir el intervalo en segundos entre cada monitoreo.
+- [✅] **Registro en Archivo de Log**: Guarda en un archivo `server_log.txt` cada evento de monitoreo con la fecha, hora, estado del servidor (online/offline) y el tiempo de respuesta.
+- [✅] **Envío de Alertas por Correo Electrónico**: Envía un correo cuando el servidor está caído o cuando se recupera.
+- [✅] **Creación de un Ejecutable Profesional**: Genera un archivo ejecutable (`.exe`) usando PyInstaller.
 
 ## Requisitos Previos
 
