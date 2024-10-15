@@ -1,0 +1,13 @@
+2024-10-15 02:06:30 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 31.27 ms
+2024-10-15 02:06:31 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 25.15 ms
+2024-10-15 02:06:32 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.64 ms
+2024-10-15 02:06:33 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.63 ms
+2024-10-15 02:06:34 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.63 ms
+2024-10-15 02:06:35 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.64 ms
+2024-10-15 02:06:36 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 19.60 ms
+2024-10-15 02:06:37 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.63 ms
+2024-10-15 02:06:38 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 16.12 ms
+2024-10-15 02:06:39 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.62 ms
+2024-10-15 02:06:40 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 21.14 ms
+2024-10-15 02:06:41 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.64 ms
+2024-10-15 02:06:42 - Servidor: 192.168.6.1 - Estado: Online - Tiempo de respuesta: 15.13 ms

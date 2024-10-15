@@ -1,0 +1,9 @@
+name: server_monitor_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pyinstaller
+  - pip
+  - requests
+  - pytest
